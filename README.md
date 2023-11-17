@@ -21,6 +21,8 @@ Parts used in this project:
 ## Temative Board image
 ![Board Image](https://github.com/mfreymond/HomeAssistant_Doorbell/blob/main/Images/Doorbell%20Current%20sensor_Doorbell.png)
 
+Board is 95mm x 95mm.
+
 ## ESPHome Configuration:
 
 ```
