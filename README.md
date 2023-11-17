@@ -7,15 +7,16 @@ Parts used in this project:
 - [Inductive Current Pickup](https://www.amazon.ca/gp/product/B00WS2QXG8/?&_encoding=UTF8&tag=mfreymond-20&linkCode=ur2&linkId=c5e86372a718adf1b25d73bab336b25f&camp=15121&creative=330641)
 - 5 x 1N4148 Diode
 - 1 x 1N4007 Diode
-- 1 x Generic LED
 - 1 x 4.7µF 15v Capacitor (value not super specific)
 - 2 x 27µF 50v Capacitor (value not super specific)
 - 1 x 0.1µF 15v Capacitor 
 - 1 x 3.3v Zener Diode
 - 1 x 10kΩ Resistor
-- 1 x 82 Ω 1/2 watt resistor
-- 1 x 330Ω Resistor
+- 1 x 82 Ω 1/2 watt resistor (used to drop the voltage for the 7805 regulator.  Adjust as needed.)
 - 1 x 7805 Voltage Regulator
+- ### Optional
+- 1 x Generic LED
+- 1 x 330Ω Resistor (used as LED current limit.  Adjust as desired).
 
 
 ## ESPHome Configuration:
