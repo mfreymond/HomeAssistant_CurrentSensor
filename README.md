@@ -1,12 +1,10 @@
-# HomeAssistant_Doorbell
+# HomeAssistant Doorbell Button Sensor
 
 
 Parts used in this project:
 
-[ESP 8266 Module](https://www.amazon.ca/gp/product/B07S5Z3VYZ/?&_encoding=UTF8&tag=mfreymond-20&linkCode=ur2&linkId=ecc55e3b7b3f051e2c1d24567067ee74&camp=15121&creative=330641)
-
-[Inductive Current Pickup](https://www.amazon.ca/gp/product/B00WS2QXG8/?&_encoding=UTF8&tag=mfreymond-20&linkCode=ur2&linkId=c5e86372a718adf1b25d73bab336b25f&camp=15121&creative=330641)
-
+- [ESP 8266 Module](https://www.amazon.ca/gp/product/B07S5Z3VYZ/?&_encoding=UTF8&tag=mfreymond-20&linkCode=ur2&linkId=ecc55e3b7b3f051e2c1d24567067ee74&camp=15121&creative=330641)
+- [Inductive Current Pickup](https://www.amazon.ca/gp/product/B00WS2QXG8/?&_encoding=UTF8&tag=mfreymond-20&linkCode=ur2&linkId=c5e86372a718adf1b25d73bab336b25f&camp=15121&creative=330641)
 - 5 x 1N4148 Diode
 - 1 x 1N4007 Diode
 - 1 x Generic LED
