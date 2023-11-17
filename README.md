@@ -18,6 +18,8 @@ Parts used in this project:
 - 1 x Generic LED
 - 1 x 330Ω Resistor (used as LED current limit.  Adjust as desired).
 
+## Temative Board image
+![Board Image](https://github.com/mfreymond/HomeAssistant_Doorbell/blob/main/Images/Doorbell%20Current%20sensor_Doorbell.png)
 
 ## ESPHome Configuration:
 
