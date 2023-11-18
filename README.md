@@ -15,8 +15,8 @@ Parts used in this project:
 - 1 x 82 Ω 1/2 watt resistor (used to drop the voltage for the 7805 regulator.  Adjust as needed.)
 - 1 x 7805 Voltage Regulator
 - ### Optional
-- 1 x Generic LED
-- 1 x 330Ω Resistor (used as LED current limit.  Adjust as desired).
+- 2 x Generic LED (1 for power, 1 for an indicator)
+- 2 x 330Ω Resistor (used as LED current limit.  Adjust as desired).
 
 ## Temative Board image
 ![Board Image](https://github.com/mfreymond/HomeAssistant_Doorbell/blob/main/Images/Doorbell%20Current%20sensor_Doorbell.png)
