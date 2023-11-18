@@ -8,7 +8,7 @@ Parts used in this project:
 - 5 x 1N4148 Diode or similar
 - 1 x 1N4007 Diode or similar
 - 1 x 4.7µF 15v Capacitor (value not super specific)
-- 2 x 27µF 50v Capacitor (value not super specific)
+- 2 x 27µF 50v Capacitor (value not super specific).  Multiple holes provided for a variaty of lead spacing.
 - 1 x 0.1µF 15v Capacitor 
 - 1 x 3.3v Zener Diode
 - 1 x 10kΩ Resistor (may need to be varied based on your specific doorbell transformer)
