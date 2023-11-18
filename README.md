@@ -54,12 +54,26 @@ wifi:
     password: "itsasecret"
 
 captive_portal:
-    
+
+
+switch: # controls the LED on the nodemcu8266
+  - platform: gpio
+    name: "$devicename LED"
+    id: ledlight
+    pin:
+      number: D4 # GPIO2 Blue LED pin
+      inverted: yes
+
 binary_sensor:
   - platform: gpio
     pin: D1
     name: "Door Bell Button"
     device_class: door
+    on_press:
+        - switch.turn_on: ledlight
+    on_release:
+        - switch.turn_off: ledlight
+
 
 
 ```
