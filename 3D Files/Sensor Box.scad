@@ -75,7 +75,7 @@ renderQuality = 20;   // Default = 12
 
 //-- which part(s) do you want to print?
 printBaseShell        = true;
-printLidShell         = false;
+printLidShell         = true;
 printSwitchExtenders  = true;
 
 //-- pcb dimensions -- very important!!!
